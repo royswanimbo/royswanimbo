@@ -1,9 +1,8 @@
 ###  Hi, I'm Roys Wanimbo👋
-👋 Hi, I'm Roys Wanimbo
-👀 I am interested in Information Technology
-🌱 I'm currently learning JavaScript, Livewire
-🎯 I learned coging in socode
-#github
+##👀 I am interested in Information Technology
+##🌱 I'm currently learning JavaScript, Livewire
+##🎯 I learned coging in socode
+
 
 <!--
 **royswanimbo/royswanimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
